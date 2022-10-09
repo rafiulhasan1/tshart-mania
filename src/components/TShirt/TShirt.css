@@ -1,0 +1,20 @@
+.tshirts{
+    border: 1px solid goldenrod;
+    border-radius: 10px;
+    padding-bottom: 20px;
+    padding-top: 10px;
+}
+.tshirts img{
+    height: 250px;
+}
+.tshirts button{
+    background-color: rgb(254, 219, 153);
+    border: none;
+    color: gray;
+    padding: 8px;
+    border-radius: 5px;
+}
+.tshirts button:hover{
+    background-color: orange;
+    color: white;
+}
